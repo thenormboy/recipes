@@ -16,6 +16,7 @@ h1 {
 }
 
 .titles {
+    color: purple;
     text-align: center;
     font-size: 36px;
     display: inline-flex;
