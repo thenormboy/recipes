@@ -7,14 +7,6 @@ h1 {
     font-size: 50px;
 }
 
-#square {
-    display: inline-flex;
-    width: 200px;
-    height: 200px;
-    background-color: red;
-    margin: -150px;
-}
-
 .titles {
     color: purple;
     text-align: center;
@@ -26,4 +18,9 @@ h1 {
 
 li {
     color: #3ad5e6;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
 }
